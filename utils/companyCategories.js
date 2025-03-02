@@ -16,5 +16,5 @@ export const CompanyCategories = Object.freeze({
     ENVIRONMENT: "Environment",       // Empresas de sostenibilidad y reciclaje
     TELECOMMUNICATIONS: "Telecommunications", // Operadores de redes y servicios digitales
     SERVICES: "Services",              // Otras empresas de servicios diversos
-    SPORT: "Sport"
+    SPORTS: "Sports"
 });
